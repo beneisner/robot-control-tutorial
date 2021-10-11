@@ -1,0 +1,6 @@
+[submodule "ompl"]
+	path = ompl
+	url = https://github.com/ompl/ompl
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost
